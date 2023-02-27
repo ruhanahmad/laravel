@@ -1,0 +1,268 @@
+[26-Feb-2023 06:42:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/iphihbst/test.iphix.shop/cameracrew/config/popper.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/popper.php on line 30
+[26-Feb-2023 06:42:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/iphihbst/test.iphix.shop/cameracrew/config/popper.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/popper.php on line 30
+[26-Feb-2023 06:42:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/iphihbst/test.iphix.shop/cameracrew/config/popper.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/popper.php on line 30
+[26-Feb-2023 06:42:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/iphihbst/test.iphix.shop/cameracrew/config/popper.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/popper.php on line 30
+[26-Feb-2023 06:42:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/iphihbst/test.iphix.shop/cameracrew/config/popper.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/popper.php on line 30
+[26-Feb-2023 06:42:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/mail.php on line 16
+[26-Feb-2023 06:42:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/mail.php on line 16
+[26-Feb-2023 06:42:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/iphihbst/test.iphix.shop/cameracrew/config/popper.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/popper.php on line 30
+[26-Feb-2023 06:42:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/cache.php on line 18
+[26-Feb-2023 06:42:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/cache.php on line 18
+[26-Feb-2023 06:42:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/cache.php on line 18
+[26-Feb-2023 06:42:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/broadcasting.php on line 18
+[26-Feb-2023 06:42:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/broadcasting.php on line 18
+[26-Feb-2023 06:42:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/mail.php on line 16
+[26-Feb-2023 06:42:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/broadcasting.php on line 18
+[26-Feb-2023 06:42:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/database.php on line 18
+[26-Feb-2023 06:42:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/database.php on line 18
+[26-Feb-2023 06:42:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/database.php on line 18
+[26-Feb-2023 06:42:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/database.php on line 18
+[26-Feb-2023 06:42:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/app.php on line 18
+[26-Feb-2023 06:42:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/broadcasting.php on line 18
+[26-Feb-2023 06:42:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/app.php on line 18
+[26-Feb-2023 06:42:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/iphihbst/test.iphix.shop/cameracrew/config/popper.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/popper.php on line 30
+[26-Feb-2023 06:42:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/mail.php on line 16
+[26-Feb-2023 06:42:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/app.php on line 18
+[26-Feb-2023 06:42:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/cache.php on line 18
+[26-Feb-2023 06:42:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/app.php on line 18
+[26-Feb-2023 06:42:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/cache.php on line 18
+[26-Feb-2023 06:42:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/cache.php on line 18
+[26-Feb-2023 06:42:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/cache.php on line 18
+[26-Feb-2023 06:42:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/hashing.php on line 32
+[26-Feb-2023 06:42:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/hashing.php on line 32
+[26-Feb-2023 06:42:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/hashing.php on line 32
+[26-Feb-2023 06:42:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/hashing.php on line 32
+[26-Feb-2023 06:42:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/filesystems.php on line 16
+[26-Feb-2023 06:42:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/filesystems.php on line 16
+[26-Feb-2023 06:42:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/filesystems.php on line 16
+[26-Feb-2023 06:42:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/logging.php on line 20
+[26-Feb-2023 06:42:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/iphihbst/test.iphix.shop/cameracrew/config/livewire.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/livewire.php on line 30
+[26-Feb-2023 06:42:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/iphihbst/test.iphix.shop/cameracrew/config/livewire.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/livewire.php on line 30
+[26-Feb-2023 06:42:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/iphihbst/test.iphix.shop/cameracrew/config/livewire.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/livewire.php on line 30
+[26-Feb-2023 06:42:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/iphihbst/test.iphix.shop/cameracrew/config/livewire.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/livewire.php on line 30
+[26-Feb-2023 06:42:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/logging.php on line 20
+[26-Feb-2023 06:42:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/logging.php on line 20
+[26-Feb-2023 06:42:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/iphihbst/test.iphix.shop/cameracrew/config/livewire.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/livewire.php on line 30
+[26-Feb-2023 06:42:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/logging.php on line 20
+[26-Feb-2023 06:42:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/filesystems.php on line 16
+[26-Feb-2023 06:42:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/hashing.php on line 32
+[26-Feb-2023 06:42:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/hashing.php on line 32
+[26-Feb-2023 06:42:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/iphihbst/test.iphix.shop/cameracrew/config/livewire.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/livewire.php on line 30
+[26-Feb-2023 06:42:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/iphihbst/test.iphix.shop/cameracrew/config/livewire.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/livewire.php on line 30
+[26-Feb-2023 06:42:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/logging.php on line 20
+[26-Feb-2023 06:42:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/database.php on line 18
+[26-Feb-2023 06:42:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/database.php on line 18
+[26-Feb-2023 06:42:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/database.php on line 18
+[26-Feb-2023 06:42:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/logging.php on line 20
+[26-Feb-2023 06:42:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/logging.php on line 20
+[26-Feb-2023 06:42:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/broadcasting.php on line 18
+[26-Feb-2023 06:42:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/app.php on line 18
+[26-Feb-2023 06:42:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/filesystems.php on line 16
+[26-Feb-2023 06:42:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/app.php on line 18
+[26-Feb-2023 06:42:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/filesystems.php on line 16
+[26-Feb-2023 06:42:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/filesystems.php on line 16
+[26-Feb-2023 06:42:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/broadcasting.php on line 18
+[26-Feb-2023 06:42:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/mail.php on line 16
+[26-Feb-2023 06:42:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/app.php on line 18
+[26-Feb-2023 06:43:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/iphihbst/test.iphix.shop/cameracrew/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/iphihbst/test.iphix.shop/cameracrew/config/mail.php on line 16
