@@ -95,7 +95,9 @@ class Packages extends Component
 
         $packages = new Package;
         if( !empty($this->search) ){
-            $packages = $packages->whereFullText('title', $this->search);   
+            $packages = $packages->where('title','like','%'.$this->search.'%')->orWhere('price','like','%'.$this->search.'%')->orWhereHas('package_role', function($query) {
+    $query->where('name','like','%'.$this->search.'%');
+});   
         }
         return $packages->orderBy('id', $this->sortby)->paginate($this->per_page);
     }

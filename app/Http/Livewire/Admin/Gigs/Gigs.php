@@ -47,7 +47,13 @@ class Gigs extends Component
         }]);
         
         if( !empty($this->search_gig) ){
-            $gigs = $gigs->whereFullText('title', $this->search_gig);
+            $gigs = $gigs->where('title','like','%'.$this->search_gig.'%')->orWhereHas('categories', function($query) {
+                $query->where('name','like','%'.$this->search_gig.'%');
+            })->orWhereHas('gigAuthor', function($query) {
+                $query->where('first_name','like','%'.$this->search_gig.'%');                
+                $query->orWhere('last_name','like','%'.$this->search_gig.'%');
+
+            });   
         }
         $gigs = $gigs->orderBy('id', $this->sortby);
         $gigs = $gigs->paginate($this->per_page);

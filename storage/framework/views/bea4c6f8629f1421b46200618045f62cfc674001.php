@@ -39,7 +39,7 @@
                     </a>
                 </li>
                 <li class="menu-has-children <?php echo e($activeTaxonomyTab ? 'active tb-openmenu': ''); ?>">
-                    <a class="tb-menuitm" href="javascript:void(0);" data-tippy-content="<?php echo e(__('sidebar.taxonomies')); ?>">
+                    <a class="tb-menuitm" href="<?php echo e(route('project-categories')); ?>" data-tippy-content="<?php echo e(__('sidebar.taxonomies')); ?>">
                         <i class="icon-layers"></i><span class="tb-navdashboard__title"><?php echo e(__('sidebar.taxonomies')); ?></span>
                     </a>
                     <ul class="sidebar-sub-menu" style="display:<?php echo e($activeTaxonomyTab ? 'block': ''); ?>">
@@ -100,7 +100,7 @@
                     </ul>
                 </li>
                 <li class="menu-has-children <?php echo e($activeSiteManagementTab ? 'active tb-openmenu': ''); ?>">
-                    <a href="javascript:void(0);" class="tb-menuitm" data-tippy-content="<?php echo e(__('sidebar.site_management')); ?>">
+                    <a href="<?php echo e(route('SitePages')); ?>" class="tb-menuitm" data-tippy-content="<?php echo e(__('sidebar.site_management')); ?>">
                         <i class="icon-layout"></i><span class="tb-navdashboard__title"><?php echo e(__('sidebar.site_management')); ?></span>
                     </a>
                     <ul class="sidebar-sub-menu" style="display:<?php echo e($activeSiteManagementTab ? 'block': ''); ?>">
@@ -131,7 +131,7 @@
                     </ul>
                 </li>
                 <li class="menu-has-children <?php echo e($activeTransactionTab ? 'active tb-openmenu': ''); ?>">
-                    <a href="javascript:void(0);" class="tb-menuitm" data-tippy-content="<?php echo e(__('sidebar.transaction_payment')); ?>">
+                    <a href="<?php echo e(route('withdraw-requests')); ?>" class="tb-menuitm" data-tippy-content="<?php echo e(__('sidebar.transaction_payment')); ?>">
                         <i class="icon-credit-card"></i><span class="tb-navdashboard__title"><?php echo e(__('sidebar.transaction_payment')); ?></span>
                     </a>
                     <ul class="sidebar-sub-menu" style="display:<?php echo e($activeTransactionTab ? 'block': ''); ?>">
@@ -174,7 +174,7 @@
                     </ul>
                 </li>
                 <li class="menu-has-children <?php echo e($activeProjectManagementTab ? 'active tb-openmenu': ''); ?>">
-                    <a href="javascript:void(0);" class="tb-menuitm" data-tippy-content="<?php echo e(__('sidebar.project_management')); ?>">
+                    <a href="<?php echo e(route('projects')); ?>" class="tb-menuitm" data-tippy-content="<?php echo e(__('sidebar.project_management')); ?>">
                         <i class="icon-file-text"></i><span class="tb-navdashboard__title"><?php echo e(__('sidebar.project_management')); ?></span>
                     </a>
                     <ul class="sidebar-sub-menu" style="display:<?php echo e($activeProjectManagementTab ? 'block': ''); ?>">
@@ -193,7 +193,10 @@
                     </ul>
                 </li>
                 <li id='gig-management' class="menu-has-children <?php echo e($activeGigManagementTab ? 'active tb-openmenu': ''); ?>">
-                    <a href="javascript:void(0);" class="tb-menuitm" data-tippy-content="<?php echo e(__('sidebar.gig_management')); ?>">
+                    <!--<a href="javascript:void(0);" class="tb-menuitm" data-tippy-content="<?php echo e(__('sidebar.gig_management')); ?>">-->
+                    <!--    <i class="icon-database"></i><span class="tb-navdashboard__title"><?php echo e(__('sidebar.gig_management')); ?></span>-->
+                    <!--</a>-->
+                    <a href="<?php echo e(route('gigs')); ?>" class="tb-menuitm" data-tippy-content="<?php echo e(__('sidebar.gig_management')); ?>">
                         <i class="icon-database"></i><span class="tb-navdashboard__title"><?php echo e(__('sidebar.gig_management')); ?></span>
                     </a>
                     <ul class="sidebar-sub-menu" style="display:<?php echo e($activeGigManagementTab ? 'block': ''); ?>">
